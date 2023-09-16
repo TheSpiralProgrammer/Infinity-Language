@@ -22,7 +22,7 @@ out("welcome " + b)
 
 cmd("echo hello")
 
-#also more commands !
+#and more  !
 #and
 #or
 #not
