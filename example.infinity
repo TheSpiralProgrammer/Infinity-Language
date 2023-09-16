@@ -1,0 +1,34 @@
+imp(os) #import a python library
+imp(random) #import a python library
+
+out("hello world ! 1.0")
+
+random_number = rnd(int(10)) #a random number from 0 to 10
+out(random_number)
+
+a = 10
+
+if a == 10:
+    out("a is 10")
+elseif a == 15:
+    out("a is 15")
+else:
+    out("a is something else !")
+
+#this is an example !
+
+b = inp("what is your name? ")
+out("welcome " + b)
+
+cmd("echo hello")
+
+#also more commands !
+#and
+#or
+#not
+#true
+#false
+#try
+#except
+#pss
+#is
