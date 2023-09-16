@@ -1,0 +1,25 @@
+import os #cmd
+
+i = 1
+
+out("Hello, World!")
+if 5 > 3:
+    out("5 is greater than 3")
+else:
+    out("5 is not greater than 3")
+w i < 5:
+    out(i)
+    i += 1
+define greet(name):
+    out("Hello, " + name + "!")
+clss Person:
+    def __init__(self, name):
+        self.name = name
+    def greet(self):
+        out("Hello, I am " + self.name)
+# This is a comment
+inp("Enter your name: ")
+rng(10)
+len("abc")
+lst([1, 2, 3])
+cmd("echo This Is The Cmd!")
